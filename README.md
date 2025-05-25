@@ -1,6 +1,6 @@
-# Novatest
+# Nova Example Project
 
-This is a sample project built with [Nova](https://github.com/xlc-dev/nova).
+This is a example project built with [Nova](https://github.com/xlc-dev/nova).
 
 ## Prerequisites
 
@@ -9,16 +9,16 @@ This is a sample project built with [Nova](https://github.com/xlc-dev/nova).
 
 ## Installation
 
-clone the repo and run `make` to build the binary.
+clone the repo and run `make` or `go build -o novaexample` to build the binary.
 
 ## Running the API
 
 ```bash
 # Default: host=localhost, port=8080
-./novatest
+./novaexample
 
 # Custom host/port
-./novatest --host=0.0.0.0 --port=3000
+./novaexample --host=0.0.0.0 --port=3000
 ```
 
 ## OpenAPI

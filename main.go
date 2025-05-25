@@ -455,7 +455,7 @@ func setupDocumentationRoutes(router *nova.Router) {
 	router.ServeOpenAPISpec("/openapi.json", nova.OpenAPIConfig{
 		Title:       "Nova API with HTML & JSON",
 		Version:     "1.0.0",
-		Description: "This is a sample API built with Nova that supports both HTML and JSON responses.",
+		Description: "This is an example API built with Nova that supports both HTML and JSON responses.",
 	})
 
 	// Swagger UI documentation interface
