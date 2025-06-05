@@ -1,15 +1,15 @@
-# Nova Example Project ✨
+# Nova Example Project
 
 This is an example project built with [Nova](https://github.com/xlc-dev/nova).
 It demonstrates how to quickly set up an API with Nova, including integrated OpenAPI documentation.
 
-## Prerequisites 🛠️
+## Prerequisites
 
 Before you get started, ensure you have:
 
 - **Go 1.23 or higher**
 
-## Installation 🚀
+## Installation
 
 Getting started with the Nova Example Project is straightforward:
 
@@ -38,7 +38,7 @@ Getting started with the Nova Example Project is straightforward:
 
     This will create an executable binary named `novaexample` in your project directory.
 
-## Running the API 🚦
+## Running the API
 
 Once built, you can run the API with customizable host and port settings:
 
@@ -56,7 +56,7 @@ Once built, you can run the API with customizable host and port settings:
 
   Replace `0.0.0.0` with your desired host and `3000` with your preferred port.
 
-## OpenAPI Documentation 📖
+## OpenAPI Documentation
 
 Nova comes with excellent OpenAPI integration.
 
@@ -72,6 +72,6 @@ Nova comes with excellent OpenAPI integration.
 
 Enjoy exploring the Nova Example Project! If you have any questions or feedback, feel free to open an issue.
 
-## License 📜
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
