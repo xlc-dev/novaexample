@@ -1,4 +1,4 @@
-BINARY_NAME=novatest
+BINARY_NAME=novaexample
 
 .PHONY: build clean fmt help
 default: build
