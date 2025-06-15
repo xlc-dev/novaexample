@@ -33,7 +33,7 @@ Getting started with the Nova Example Project is straightforward:
     - **Directly with `go build`:**
 
       ```bash
-      go build
+      go build -o novaexample
       ```
 
     This will create an executable binary named `novaexample` in your project directory.
