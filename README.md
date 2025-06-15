@@ -16,8 +16,8 @@ Getting started with the Nova Example Project is straightforward:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/nova-example-project.git
-    cd nova-example-project
+    git clone https://github.com/xlc-dev/novaexample.git
+    cd novaexample
     ```
 
 2.  **Build the binary:**
