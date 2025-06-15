@@ -813,7 +813,6 @@ func main() {
 				nova.SecurityHeadersMiddleware(nova.SecurityHeadersConfig{
 					ContentTypeOptions:    "nosniff",
 					FrameOptions:          "DENY",
-					XSSProtection:         "1; mode=block",
 					ReferrerPolicy:        "strict-origin-when-cross-origin",
 					HSTSMaxAgeSeconds:     31536000, // 1 year
 					HSTSIncludeSubdomains: func(b bool) *bool { return &b }(true),
