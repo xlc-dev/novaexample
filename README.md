@@ -22,19 +22,9 @@ Getting started with the Nova Example Project is straightforward:
 
 2.  **Build the binary:**
 
-    You have two options:
-
-    - **Using `make` (recommended):**
-
-      ```bash
-      make
-      ```
-
-    - **Directly with `go build`:**
-
-      ```bash
-      go build -o novaexample
-      ```
+    ```bash
+    go build -o novaexample
+    ```
 
     This will create an executable binary named `novaexample` in your project directory.
 
