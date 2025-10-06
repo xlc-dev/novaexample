@@ -7,7 +7,7 @@ It demonstrates how to quickly set up an API with Nova, including integrated Ope
 
 Before you get started, ensure you have:
 
-- **Go 1.23 or higher**
+- **Go 1.24 or higher**
 
 ## Installation
 
